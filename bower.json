@@ -1,0 +1,14 @@
+{
+  "name": "iosselect",
+  "version": "0.0.0",
+  "main": [
+    "lib/drum.css",
+    "lib/drum.js"
+  ],
+  "dependencies": {
+    "hammer": "./contrib/hammerjs/hammer.min.js",
+    "fakemultitouch": "./contrib/hammerjs/hammer.fakemultitouch.js"
+  },
+  "description": "",
+  "license": "MIT"
+}
