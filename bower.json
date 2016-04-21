@@ -1,0 +1,17 @@
+{
+  "name": "iosselect",
+  "homepage": "https://github.com/iblysm666/iosselect",
+  "authors": [
+    "yadi666 <ydiabolic@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "lib/drum.js",
+    "lib/drum.css"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fakemultitouch": "./contrib/hammerjs/hammer.fakemultitouch.js",
+    "hammer": "./contrib/hammerjs/hammer.min.js"
+  }
+}
